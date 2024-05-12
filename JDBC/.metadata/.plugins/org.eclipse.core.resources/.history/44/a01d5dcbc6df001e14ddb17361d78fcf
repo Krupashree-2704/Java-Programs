@@ -1,0 +1,5 @@
+package com.qsp.shms.model;
+
+public class Product {
+
+}

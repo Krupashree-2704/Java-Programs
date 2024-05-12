@@ -1,0 +1,30 @@
+package com.jsp.ac.view;
+
+import java.util.Scanner;
+
+
+
+public class AreaCalculator {
+	static Scanner myScanner=new Scanner(System.in);
+	public static void main(String[] args) {
+		System.out.println("1.Area of Circle\n2.Area of Rectangle\n3.Area of Traingle");
+		int userChoice=myScanner.nextInt();
+		myScanner.nextLine();
+		switch (userChoice) {
+		case 1:
+			
+			break;
+		case 2:
+
+			break;
+		case 3:
+
+			break;
+
+		default:
+			break;
+		}
+
+	}
+
+}

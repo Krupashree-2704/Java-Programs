@@ -1,0 +1,36 @@
+package com.jsp.entity.model;
+
+import java.time.LocalDateTime;
+import java.util.List;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+import javax.persistence.ManyToOne;
+
+import org.hibernate.annotations.CreationTimestamp;
+
+
+@Entity
+public class Employee {
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	private int id;
+	private String name;
+	private double salary;
+	private String position;
+	@CreationTimestamp
+	private LocalDateTime doj;
+	public Employee() {
+		
+	}
+	@ManyToOne
+	private Department department;
+	@ManyToMany
+	private List<Project>project;
+	
+
+	
+}

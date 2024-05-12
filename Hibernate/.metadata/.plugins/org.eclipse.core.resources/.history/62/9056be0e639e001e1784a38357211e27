@@ -1,0 +1,30 @@
+package com.jsp.ce.bi.eliminate.test;
+
+import com.jsp.ce.bi.eliminate.controller.Controller;
+import com.jsp.ce.bi.eliminate.model.Car;
+import com.jsp.ce.bi.eliminate.model.Engine;
+
+public class TestFind {
+	static Controller controller=new Controller();
+	public static void main(String[] args) {
+		Car findCarandEngine = controller.findCarandEngine(1);
+		if (findCarandEngine!=null) {
+			System.out.println("Car ID:"+findCarandEngine.getId());
+			System.out.println("Car Name:"+findCarandEngine.getCar_name());
+			System.out.println("Car Chasis:"+findCarandEngine.getChasis());
+			System.out.println("Car InsertInfo:"+findCarandEngine.getCar_inserted());
+			System.out.println("Car UpdateInfo:"+findCarandEngine.getCar_update());
+			Engine engine = findCarandEngine.getEngine();
+			if (engine!=null) {
+				System.out.println("Engine ID:"+engine.getId());
+				System.out.println("Engine CC:"+engine.getCc());
+				System.out.println("Engine No of Engines:"+engine.getNo_of_engine());
+				System.out.println("Engine InsertDate:"+engine.getEngine_insert());
+			}
+			
+		} else {
+
+		}
+		
+	}
+}

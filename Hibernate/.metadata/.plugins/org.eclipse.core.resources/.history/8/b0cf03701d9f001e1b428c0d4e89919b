@@ -1,0 +1,27 @@
+package com.jsp.ac.controller;
+
+import com.jsp.ac.model.Shape;
+
+public class Area implements Shape {
+
+	
+	public double areaCircle(double radius_circle) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int areaRectangle(int length_rectangle, int breadth_rectangle) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double areaTriangle(int base_triangle, double height_rectangle) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	
+
+}

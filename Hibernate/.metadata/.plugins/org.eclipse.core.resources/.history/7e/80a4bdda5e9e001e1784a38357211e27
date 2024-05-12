@@ -1,0 +1,6 @@
+package com.jsp.ce.bi.eliminate.model;
+
+@Entity
+public class Car {
+
+}

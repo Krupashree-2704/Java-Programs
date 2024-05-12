@@ -1,0 +1,6 @@
+package com.qsp.entity;
+
+public interface Maths {
+	abstract public double add();
+	
+}

@@ -1,0 +1,12 @@
+package com.jsp.ce.bi.eliminate.test;
+
+import com.jsp.ce.bi.eliminate.controller.Controller;
+
+public class TestRemove {
+	static Controller controller=new Controller();
+	public static void main(String[] args) {
+		
+
+	}
+
+}
