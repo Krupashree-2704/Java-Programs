@@ -1,0 +1,90 @@
+package com.qsp.brs.view;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+import com.qsp.brs.controller.BusController;
+import com.qsp.brs.model.Bus;
+
+public class BusView {
+	static Bus bus=new Bus();
+	static BusController buscontroller=new BusController();
+	public static void main(String[] args) {
+		Scanner myInput = new Scanner(System.in);
+		boolean flag=true;
+		while (flag) {
+			System.out.println("1.Add Bus\n2.Fetch all bus\n3.Update bus details\n4.Delete bus\n0.Exit \nEnter Your Choice:");
+			byte userChoice=myInput.nextByte();
+			myInput.nextLine();
+			switch (userChoice) {
+			case 1:
+				System.out.print("Enter Bus Number : ");
+				int bus_no=myInput.nextInt();
+				myInput.nextLine();
+				System.out.print("Enter Bus Name : ");
+				String bus_name=myInput.nextLine();
+				System.out.print("Enter Bus Start Destination : ");
+				String bus_start_destination=myInput.nextLine();
+				System.out.print("Enter Bus End Destination : ");
+				String bus_end_destination=myInput.nextLine();
+				System.out.print("Enter Bus Fare : ");
+				double bus_fare=myInput.nextDouble();
+				myInput.nextLine();
+				if (buscontroller.addBus(bus_no, bus_name, bus_start_destination, bus_end_destination, bus_fare)>0) {
+					System.out.println("Bus Information has been added successfully");
+				} else {
+					System.out.println("Bus Information have not been added successfully");
+				}
+				break;
+			case 2:
+				System.out.println("1.Read all Bus Data\n2.Read Specific Bus Data\nEnter your choice:");
+				byte userChoiceRead=myInput.nextByte();
+				myInput.nextLine();
+				switch (userChoiceRead) {
+				case 1:
+					ResultSet readAllBus = buscontroller.readAllBus();
+					if (readAllBus!=null) {
+						System.out.println("Below are the details of all the buses......");
+						try {
+							while (readAllBus.next()) {
+								System.out.println("Bus Number : "+readAllBus.getInt(1));
+								System.out.println("Bus Name : "+readAllBus.getString(2));
+								System.out.println("Bus Start Destination : "+readAllBus.getString(3));
+								System.out.println("Bus End Destination : "+readAllBus.getString(4));
+								System.out.println("Bus Fare : "+readAllBus.getDouble(5));
+							}
+						} catch (SQLException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
+					} else {
+						System.out.println("Buses Information are not available in the system");
+					}
+					break;
+				case 2:
+
+					break;
+
+				default:
+					System.out.println("Choose the Correct Operation.....");
+					break;
+				}
+				break;
+			case 3:
+
+				break;
+			case 4:
+
+				break;
+			case 0:
+				flag=false;
+				break;
+			default:
+				System.out.println(".....Please Choose the correct option.....");
+				break;
+			}
+		}
+		
+	}
+}

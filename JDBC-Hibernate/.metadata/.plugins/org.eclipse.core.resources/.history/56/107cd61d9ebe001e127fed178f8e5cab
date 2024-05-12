@@ -1,0 +1,29 @@
+package com.qsp.psbe;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+public class PreparedStatementBatchExecution {
+	public static void main(String[] args) {
+		try {
+			Class.forName("org.postgresql.Driver");
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/preparedstatementaddbatch?user=postgres&password=root");
+			String query="insert into ps values(?,?)";
+			PreparedStatement prepareStatement = connection.prepareStatement(query);
+			prepareStatement.setInt(1, 1);
+			prepareStatement.setString(2, "Aarya");
+			prepareStatement.addBatch();
+			int[] executeBatch = prepareStatement.executeBatch();
+			System.out.println(executeBatch);
+			
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

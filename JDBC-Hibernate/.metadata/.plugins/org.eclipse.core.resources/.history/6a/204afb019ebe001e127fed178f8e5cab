@@ -1,0 +1,5 @@
+package com.qsp.psbe;
+
+public class PreparedStatementBatchExecution {
+
+}

@@ -1,0 +1,57 @@
+package com.qsp.brs.view;
+
+import java.util.Scanner;
+
+import com.qsp.brs.controller.BusController;
+import com.qsp.brs.model.Bus;
+
+public class BusView {
+	static Bus bus=new Bus();
+	static BusController buscontroller=new BusController();
+	public static void main(String[] args) {
+		Scanner myInput = new Scanner(System.in);
+		boolean flag=true;
+		while (flag) {
+			System.out.println("1.Add Bus\n2.Fetch all bus\n3.Update bus details\n4.Delete bus\n0.Exit Enter Your Choice:");
+			byte userChoice=myInput.nextByte();
+			myInput.nextLine();
+			switch (userChoice) {
+			case 1:
+				System.out.print("Enter Bus Number : ");
+				int bus_no=myInput.nextInt();
+				myInput.nextLine();
+				System.out.print("Enter Bus Name : ");
+				String bus_name=myInput.nextLine();
+				System.out.print("Enter Bus Start Destination : ");
+				String bus_start_destination=myInput.nextLine();
+				System.out.print("Enter Bus End Destination : ");
+				String bus_end_destination=myInput.nextLine();
+				System.out.print("Enter Bus Fare : ");
+				double bus_fare=myInput.nextDouble();
+				myInput.nextLine();
+				if (buscontroller.addBus(bus_no, bus_name, bus_start_destination, bus_end_destination, bus_fare)>0) {
+					System.out.println("Bus Information has been added successfully");
+				} else {
+					System.out.println("Bus Information have not been added successfully");
+				}
+				break;
+			case 2:
+
+				break;
+			case 3:
+
+				break;
+			case 4:
+
+				break;
+			case 0:
+				flag=false;
+				break;
+			default:
+				System.out.println(".....Please Choose the correct option.....");
+				break;
+			}
+		}
+		
+	}
+}

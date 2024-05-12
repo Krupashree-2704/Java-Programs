@@ -1,0 +1,7 @@
+package com.qsp.brs.view;
+
+public class BusView {
+	public static void main(String[] args) {
+		
+	}
+}

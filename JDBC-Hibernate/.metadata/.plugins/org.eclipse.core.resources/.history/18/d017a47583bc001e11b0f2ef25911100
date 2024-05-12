@@ -1,0 +1,33 @@
+package com.qsp.bc.model;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class BasicCRUD {
+	public static void main(String[] args) {
+		try {
+			Class.forName("org.postgresql.Driver");
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/basiccrud", "postgres", "root");
+			Statement createStatement = connection.createStatement();
+			boolean execute = createStatement.execute("delete from studentclass;");
+			if (execute) {
+				System.out.println("Delete Operation Performed Successfully");
+			} else {
+				System.out.println("Delete Operation Not Performed Successfully");
+			}
+			try {
+				connection.close();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

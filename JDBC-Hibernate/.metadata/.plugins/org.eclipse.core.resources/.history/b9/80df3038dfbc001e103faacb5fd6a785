@@ -1,0 +1,19 @@
+package com.qsp.brs.model;
+
+
+
+import org.postgresql.Driver;
+
+public class BusUtility {
+	
+		try
+		{
+			Class.forName("org.postgresql.Driver");
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		
+	
+}

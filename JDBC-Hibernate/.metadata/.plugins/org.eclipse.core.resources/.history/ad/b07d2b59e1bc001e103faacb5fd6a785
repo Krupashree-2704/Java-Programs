@@ -1,0 +1,62 @@
+package com.qsp.brs.model;
+
+public class Bus {
+	private int bus_no;
+	private String bus_name;
+	private String bus_start_destination;
+	private String bus_end_destination;
+	private String bus_customer_name;
+	private String bus_customer_start_destination;
+	private String bus_customer_end_destination;
+	private String bus_customer_seat_number;
+	public int getBus_no() {
+		return bus_no;
+	}
+	public void setBus_no(int bus_no) {
+		this.bus_no = bus_no;
+	}
+	public String getBus_name() {
+		return bus_name;
+	}
+	public void setBus_name(String bus_name) {
+		this.bus_name = bus_name;
+	}
+	public String getBus_start_destination() {
+		return bus_start_destination;
+	}
+	public void setBus_start_destination(String bus_start_destination) {
+		this.bus_start_destination = bus_start_destination;
+	}
+	public String getBus_end_destination() {
+		return bus_end_destination;
+	}
+	public void setBus_end_destination(String bus_end_destination) {
+		this.bus_end_destination = bus_end_destination;
+	}
+	public String getBus_customer_name() {
+		return bus_customer_name;
+	}
+	public void setBus_customer_name(String bus_customer_name) {
+		this.bus_customer_name = bus_customer_name;
+	}
+	public String getBus_customer_start_destination() {
+		return bus_customer_start_destination;
+	}
+	public void setBus_customer_start_destination(String bus_customer_start_destination) {
+		this.bus_customer_start_destination = bus_customer_start_destination;
+	}
+	public String getBus_customer_end_destination() {
+		return bus_customer_end_destination;
+	}
+	public void setBus_customer_end_destination(String bus_customer_end_destination) {
+		this.bus_customer_end_destination = bus_customer_end_destination;
+	}
+	public String getBus_customer_seat_number() {
+		return bus_customer_seat_number;
+	}
+	public void setBus_customer_seat_number(String bus_customer_seat_number) {
+		this.bus_customer_seat_number = bus_customer_seat_number;
+	}
+	
+	
+}

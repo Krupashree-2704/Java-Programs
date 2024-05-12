@@ -1,0 +1,54 @@
+package com.qsp.bc.model;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.Scanner;
+//import java.sql.Statement;
+
+public class BasicCRUD {
+	public static void main(String[] args) {
+		Scanner myInput=new Scanner(System.in);
+		try {
+			Class.forName("org.postgresql.Driver");
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/basiccrud", "postgres", "root");
+			PreparedStatement preparedStatement = connection.prepareStatement("delete from studentclass where rollno=?");
+			preparedStatement.setInt(2, 4);
+//			boolean flag=true;
+//			while (flag) {
+//				System.out.println("Enter Name :");
+//				String name=myInput.nextLine();
+//				System.out.println("Enter Rollno :");
+//				int rollno=myInput.nextInt();
+//				myInput.nextLine();
+//				preparedStatement.setString(1, name);
+//				preparedStatement.setInt(2, rollno);
+//				preparedStatement.execute();
+//				System.out.println("Do you want to continue Y/N");
+//				String resp=myInput.nextLine();
+//				if ((resp.equalsIgnoreCase("Y"))) {
+//					flag=true;
+//				}
+//				else
+//				{
+//					flag=false;
+//				}
+//			}
+			
+			
+			
+			try {
+				connection.close();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

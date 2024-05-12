@@ -1,0 +1,31 @@
+package com.qsp.bc.model;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+//import java.sql.Statement;
+
+public class BasicCRUD {
+	public static void main(String[] args) {
+		try {
+			Class.forName("org.postgresql.Driver");
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/basiccrud", "postgres", "root");
+			PreparedStatement preparedStatement = connection.prepareStatement("insert into studentclass values(?,?);");
+			preparedStatement.setString(1, "Aarya");
+			preparedStatement.setInt(2, 1);
+			preparedStatement.execute();
+			try {
+				connection.close();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}
