@@ -1,0 +1,6 @@
+package com.jsp.sms.model;
+
+public interface Rectangle extends Circle{
+	void area();
+	void area1();
+}

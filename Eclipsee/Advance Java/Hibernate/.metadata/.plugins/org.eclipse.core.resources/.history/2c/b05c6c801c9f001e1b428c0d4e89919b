@@ -1,0 +1,15 @@
+package com.jsp.ac.controller;
+
+import com.jsp.ac.model.Shape;
+
+public class AreaofCircle implements Shape {
+
+	@Override
+	public double areaCircle(double radius_circle) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	
+
+}

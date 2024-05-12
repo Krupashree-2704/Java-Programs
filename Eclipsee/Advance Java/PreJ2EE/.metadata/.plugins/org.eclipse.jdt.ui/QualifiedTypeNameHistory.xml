@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="edu.qsp.lms.model.Library"/>
+    <fullyQualifiedTypeName name="edu.qsp.lms.model.Book"/>
+    <fullyQualifiedTypeName name="Son"/>
+    <fullyQualifiedTypeName name="CompileTimePolymorphism"/>
+    <fullyQualifiedTypeName name="Father"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="ATMMachine"/>
+    <fullyQualifiedTypeName name="ObjectClass"/>
+    <fullyQualifiedTypeName name="ArrayListOperations"/>
+    <fullyQualifiedTypeName name="java.util.ListIterator"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.MidiChannel"/>
+    <fullyQualifiedTypeName name="TreeSet"/>
+    <fullyQualifiedTypeName name="LinkedHashSet"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="TreeMap"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="BankAccount"/>
+    <fullyQualifiedTypeName name="Football"/>
+    <fullyQualifiedTypeName name="Volleyball"/>
+    <fullyQualifiedTypeName name="Basketball"/>
+    <fullyQualifiedTypeName name="Student"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="Rectangle"/>
+</qualifiedTypeNameHistroy>

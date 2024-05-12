@@ -1,0 +1,26 @@
+class Rectangle
+{
+	int leng=10;
+	int brea=20;
+}
+public class MainProgram {
+
+	public static void main(String[] args) {
+//		Rectangle rectangle = new Rectangle();
+//		System.out.println("Before changing value:"+rectangle.leng+" "+rectangle.brea);
+//		Shallow Copy
+//		Rectangle rectangle1=rectangle;
+//		rectangle1.leng=20;
+//		rectangle1.brea=30;
+//		System.out.println("After Changing value:"+rectangle.leng+" "+rectangle.brea);
+//		Deep Copy
+		Rectangle recta=new Rectangle();
+		Rectangle recta2 = new Rectangle();
+		recta2.leng=recta.leng;
+		recta2.brea=recta.brea;
+		System.out.println("Rectangle :"+recta.leng+recta.brea);
+		System.out.println("Rectangle 1:"+recta2.leng+recta2.brea);
+
+	}
+
+}

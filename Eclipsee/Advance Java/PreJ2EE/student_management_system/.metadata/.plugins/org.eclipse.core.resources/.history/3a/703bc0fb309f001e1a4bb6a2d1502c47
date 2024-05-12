@@ -1,0 +1,5 @@
+package com.jsp.sms.controller;
+
+public class StudentUtility {
+	
+}

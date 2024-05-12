@@ -1,0 +1,20 @@
+package com.jsp.ce.bi.eliminate.test;
+
+import com.jsp.ce.bi.eliminate.controller.Controller;
+import com.jsp.ce.bi.eliminate.model.Car;
+
+public class TestUpdate {
+	static Controller controller=new Controller();
+	public static void main(String[] args) {
+		Car car = new Car();
+		String carname="Mercedes";
+		int car_id=1;
+		if (controller.updateCarName(carname, 1)) {
+			System.out.println("Car Name updated");
+		} else {
+			System.out.println("Car Name not updated");
+		}
+
+	}
+
+}

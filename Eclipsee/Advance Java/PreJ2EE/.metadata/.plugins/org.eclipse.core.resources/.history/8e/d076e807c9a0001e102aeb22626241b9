@@ -1,0 +1,18 @@
+class Rectangle
+{
+	int leng=10;
+	int brea=20;
+}
+public class MainProgram {
+
+	public static void main(String[] args) {
+		Rectangle rectangle = new Rectangle();
+		System.out.println("Before changing value:"+rectangle.leng+" "+rectangle.brea);
+		Rectangle rectangle1=rectangle;
+		rectangle1.leng=20;
+		rectangle1.brea=30;
+		System.out.println("After Changing value:"+rectangle.leng+rectangle.brea);
+
+	}
+
+}

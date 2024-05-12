@@ -1,0 +1,41 @@
+package com.jsp.sms.controller;
+
+import java.util.ArrayList;
+
+import com.jsp.sms.model.Student;
+
+public class StudentUtility {
+	static ArrayList<Student> studentList = new ArrayList<Student>();
+	public static boolean addStudent(Student student)
+	{
+		if (student!=null) {
+			
+			student.setId(student.getId());
+			student.setName(student.getName());
+			student.setAge(student.getAge());
+			studentList.add(student);
+			return true;
+		}
+		
+		return false;
+	}
+	public static void viewStudent()
+	{
+		for (Student student : studentList) {
+			System.out.println("ID:"+student.getId());
+			System.out.println("Name:"+student.getName());
+			System.out.println("Age:"+student.getAge());
+		}
+	}
+	public static void findStudent(int studentId)
+	{
+		for (Student student : studentList) {
+			if (student.getId()==studentId) {
+				System.out.println("ID:"+student.getId());
+				System.out.println("Name:"+student.getName());
+				System.out.println("Age:"+student.getAge());
+			}
+			
+		}
+	}
+}

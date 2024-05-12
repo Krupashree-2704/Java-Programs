@@ -1,0 +1,45 @@
+package com.jsp.sms.controller;
+
+import java.util.Iterator;
+import java.util.List;
+import java.util.Scanner;
+
+import com.jsp.sms.model.Student;
+
+
+public class StudentUtility {
+	static Scanner myInput=new Scanner(System.in);
+//	Create Methods
+//	1.Add Student
+	public static Student addStudent()
+	{
+		
+		Student student = new Student();
+		System.out.println("Enter Student ID:");
+		student.setId(myInput.nextInt());
+		myInput.nextLine();
+		System.out.println("Enter Student Name:");
+		student.setName(myInput.nextLine());
+		System.out.println("Enter Student Age:");
+		student.setAge(myInput.nextInt());
+		myInput.nextLine();
+		return student;
+	}
+//	2.Update Student
+	public static void update(List<Student>students)
+	{
+		System.out.println("Enter the student ID you want to update details:");
+		int student_id_update=mI
+	}
+//	3.Display Student
+	public static void displayAllStudents(List<Student>student)
+	{
+		Iterator<Student> studentIterator = student.iterator();
+		while (studentIterator.hasNext()) {
+			System.out.println(studentIterator.next().toString());
+			
+		}
+	}
+//	4.Delete student
+	
+}

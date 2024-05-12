@@ -1,0 +1,43 @@
+package com.jsp.ac.controller;
+
+import com.jsp.ac.model.Shape;
+
+ public abstract class AreaRectangle implements Shape{
+	int length_rectangle;
+	int breadth_rectangle;
+	
+	Shape shaperect=new AreaRectangle() {
+		
+		@Override
+		public double areaTriangle(int base_triangle, double height_rectangle) {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+		
+//		@Override
+//		public int areaRectangle(int length_rectangle, int breadth_rectangle) {
+//			// TODO Auto-generated method stub
+//			return 0;
+//		}
+//		
+//		@Override
+//		public double areaCircle(double radius_circle) {
+//			// TODO Auto-generated method stub
+//			return 0;
+//		}
+	};
+	
+	
+//	public AreaRectangle(int length_rectangle, int breadth_rectangle) {
+//		
+//		this.length_rectangle = length_rectangle;
+//		this.breadth_rectangle = breadth_rectangle;
+//	}
+
+//	public static void main(String[] args) {
+//		Area areaRectangle = new Area();
+//		areaRectangle.areaRectangle(0, 0);
+//
+//	}
+
+}

@@ -1,0 +1,11 @@
+package com.jsp.ac.controller;
+
+import com.jsp.ac.model.Shape;
+
+public abstract class AreaCircle implements Shape{
+	public double areaCircle(double radius_circle)
+	{
+		return 3.14*radius_circle*radius_circle;
+		
+	}
+}

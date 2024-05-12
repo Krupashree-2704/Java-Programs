@@ -1,0 +1,13 @@
+package com.jsp.ce.bi.eliminate.model;
+
+import java.time.LocalDateTime;
+
+public class Car {
+	private int id;
+	private String car_name;
+	private String chasis;
+	private LocalDateTime car_inserted;
+	private LocalDateTime car_update;
+	private Engine engine;
+
+}

@@ -1,0 +1,8 @@
+package com.jsp.ce.bi.eliminate.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Engine {
+
+}

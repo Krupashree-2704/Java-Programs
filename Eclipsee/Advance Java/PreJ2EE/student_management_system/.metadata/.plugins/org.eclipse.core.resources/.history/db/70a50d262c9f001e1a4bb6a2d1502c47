@@ -1,0 +1,5 @@
+package com.jsp.sms.model;
+
+public interface Circle {
+
+}
