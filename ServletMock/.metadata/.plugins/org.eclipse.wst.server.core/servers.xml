@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v10.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v10.0 Server at localhost" name="Tomcat v10.0 Server at localhost" runtime-id="apache-tomcat-10.0.27" server-type="org.eclipse.jst.server.tomcat.100" server-type-id="org.eclipse.jst.server.tomcat.100" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="11">
+    <list key="modules" value0="ServletTrial::org.eclipse.jst.j2ee.server:ServletTrial::jst.web::2.3" value1="EmployeeMgmtsystem::org.eclipse.jst.j2ee.server:EmployeeMgmtsystem::jst.web::2.3" value2="GoldenGym::org.eclipse.jst.jee.server:GoldenGym::jst.web::2.5" value3="JSPProject::org.eclipse.jst.j2ee.server:JSPProject::jst.web::2.3" value4="JSPDirective::org.eclipse.jst.j2ee.server:JSPDirective::jst.web::2.3" value5="JSPObjects::org.eclipse.jst.j2ee.server:JSPObjects::jst.web::2.3" value6="registeruser::org.eclipse.jst.j2ee.server:registeruser::jst.web::2.3" value7="UserRegisteration::org.eclipse.jst.j2ee.server:UserRegisteration::jst.web::2.3" value8="Student_Management_System::org.eclipse.jst.j2ee.server:Student_Management_System::jst.web::2.3"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/apache-tomcat-10.0.27 at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="apache-tomcat-10.0.27 at localhost" name="apache-tomcat-10.0.27 at localhost" runtime-id="apache-tomcat-10.0.27" server-type="org.eclipse.jst.server.tomcat.100" server-type-id="org.eclipse.jst.server.tomcat.100" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="Student_Management_System::org.eclipse.jst.j2ee.server:Student_Management_System::jst.web::2.3"/>
+  </server>
+</servers>

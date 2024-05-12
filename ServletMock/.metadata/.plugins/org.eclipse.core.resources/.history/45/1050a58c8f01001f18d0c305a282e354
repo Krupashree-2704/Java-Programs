@@ -1,0 +1,42 @@
+package com.jsp.dao;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+import com.jsp.model.Alien;
+
+public class AlienDAO {
+	Connection connection=null;
+	public Alien getAlien(int aid)
+	{
+		Alien alien = new Alien();
+		alien.setAid(12);
+		alien.setAname("Krupa");
+		alien.setAtech("Java");
+		
+		try {
+			Class.forName("org.postgresql.Driver");
+			connection = DriverManager.getConnection("jdbc:posgtgresql://localhost:5432/servlet-jsp", "postgres", "root");
+			Statement statement = connection.createStatement();
+			ResultSet resultSet = statement.executeQuery("select * from alien where aid="+aid);
+			if (resultSet.next()) {
+				alien.setAid(resultSet.getInt("aid"));
+				alien.setAname(resultSet.getString("name"));
+				
+			}
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return alien;
+	}
+	
+}
+

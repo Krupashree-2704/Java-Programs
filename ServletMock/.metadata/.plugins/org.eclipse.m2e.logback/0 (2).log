@@ -1,0 +1,1114 @@
+2024-04-19 14:10:15,732 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-19 14:14:02,725 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [623])
+2024-04-19 14:14:02,733 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2024-04-19 14:14:02,733 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2024-04-19 14:14:02,734 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2024-04-19 14:14:02,734 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2024-04-19 14:14:02,735 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2024-04-19 14:14:02,735 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2024-04-19 14:14:02,736 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2024-04-19 14:14:02,736 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2024-04-19 14:14:02,736 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2024-04-19 14:14:02,737 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2024-04-19 14:14:02,737 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2024-04-19 14:14:02,737 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2024-04-19 14:14:02,737 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2024-04-19 14:14:02,738 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2024-04-19 14:14:02,738 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2024-04-19 14:14:02,740 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2024-04-19 14:14:02,741 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2024-04-19 14:14:02,742 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2024-04-19 14:14:02,742 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2024-04-19 14:14:02,742 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2024-04-19 14:14:02,742 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2024-04-19 14:14:02,744 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2024-04-19 14:14:02,744 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2024-04-19 14:14:02,744 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2024-04-19 14:14:02,744 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2024-04-19 14:14:02,744 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2024-04-19 14:14:02,744 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2024-04-19 14:14:02,744 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2024-04-19 14:14:02,745 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-04-19 14:14:02,745 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-04-19 14:14:02,745 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2024-04-19 14:14:02,746 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2024-04-19 14:14:02,746 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2024-04-19 14:14:02,746 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2024-04-19 14:14:02,746 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2024-04-19 14:14:02,747 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2024-04-19 14:14:02,747 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2024-04-19 14:14:02,747 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2024-04-19 14:14:02,747 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2024-04-19 14:14:02,749 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [12])
+2024-04-19 14:14:02,750 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\com.google.guava_32.1.2.jre.jar
+2024-04-19 14:14:02,750 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.11 [984])
+2024-04-19 14:14:02,751 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\slf4j.api_2.0.11.jar
+2024-04-19 14:14:02,752 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [38])
+2024-04-19 14:14:02,752 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-04-19 14:14:02,752 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [36])
+2024-04-19 14:14:02,752 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-04-19 14:14:02,752 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [73])
+2024-04-19 14:14:02,753 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2024-04-19 14:14:02,754 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [14])
+2024-04-19 14:14:02,754 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-04-19 14:14:02,769 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\hp\AppData\Local\Temp\m2e-archetypeGenerator17599400197019697804":
+2024-04-19 14:14:02,778 [Worker-27: Launching mavenrun-e6104b34-7986-40bf-a1f1-ded8af57c401] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=com.jsp -DartifactId=Servlet_Lessons -Dversion=0.0.1-SNAPSHOT -Dpackage=com.jsp.Servlet_Lessons -DoutputDirectory=C:\ServletMock -Dstyle.color=always -U archetype:generate
+2024-04-19 14:22:34,811 [Worker-26: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ServletMock\Servlet_Lessons\pom.xml
+2024-04-19 14:22:39,137 [Worker-26: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Servlet_Lessons:0.0.1-SNAPSHOT @ C:\ServletMock\Servlet_Lessons\pom.xml.
+2024-04-19 14:22:42,272 [Worker-26: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Servlet_Lessons/src/main/java
+2024-04-19 14:22:42,272 [Worker-26: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Servlet_Lessons/src/main/resources
+2024-04-19 14:22:42,273 [Worker-26: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Servlet_Lessons/src/test/java
+2024-04-19 14:22:42,273 [Worker-26: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Servlet_Lessons/src/test/resources
+2024-04-19 14:22:44,677 [Worker-26: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2024-04-19 14:22:45,923 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:22:45,923 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 14:22:45,937 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:22:45,938 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 14:26:43,628 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:26:43,630 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 14:26:43,641 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:26:43,642 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 14:32:17,182 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:32:17,183 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 14:32:17,188 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:32:17,189 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 14:33:25,067 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:33:25,068 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 14:33:25,072 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:33:25,073 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 14:33:33,439 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:33:33,439 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 14:33:33,449 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:33:33,450 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 14:34:32,313 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:34:32,314 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 14:34:32,319 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 14:34:32,319 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 14:34:45,198 [Worker-29: https://www.caucho.com/eclipse/site.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.caucho.com:443
+2024-04-19 14:34:46,892 [Worker-36: https://www.caucho.com/eclipse/site.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.caucho.com:443
+2024-04-19 14:34:49,510 [Worker-38: https://www.caucho.com/eclipse/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.caucho.com:443
+2024-04-19 14:34:52,126 [Worker-40: https://www.caucho.com/eclipse/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.caucho.com:443
+2024-04-19 14:34:54,371 [Worker-34: https://www.caucho.com/eclipse/content.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.caucho.com:443
+2024-04-19 19:46:13,135 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:46:13,135 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 19:46:13,138 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:46:13,138 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 19:46:35,423 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:46:35,423 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 19:46:35,427 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:46:35,428 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 19:48:41,007 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:48:41,008 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 19:48:41,013 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:48:41,013 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 19:49:37,115 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:49:37,115 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 19:49:37,118 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:49:37,118 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 19:50:12,783 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:50:12,783 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 19:50:12,786 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:50:12,786 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 19:50:26,614 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:50:26,615 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 19:50:26,618 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:50:26,618 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-19 19:50:46,698 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:50:46,699 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-19 19:50:46,703 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-19 19:50:46,703 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 17:35:05,269 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-21 17:40:45,390 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 17:40:45,402 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 17:40:45,410 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 17:40:45,410 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 17:43:05,418 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 17:43:05,419 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 17:43:05,423 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 17:43:05,424 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 17:43:17,434 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 17:43:17,434 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 17:43:17,437 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 17:43:17,437 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 17:44:18,746 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 17:44:18,746 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 17:44:18,748 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 17:44:18,749 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 17:45:00,508 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 17:45:00,508 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 17:45:00,511 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 17:45:00,511 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:20:21,721 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:20:21,721 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:20:21,723 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:20:21,724 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:20:47,908 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:20:47,909 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:20:47,913 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:20:47,914 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:22:17,399 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:22:17,399 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:22:17,403 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:22:17,403 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:23:24,676 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:23:24,677 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:23:24,679 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:23:24,679 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:24:38,904 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:24:38,904 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:24:38,906 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:24:38,906 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:30:46,569 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:30:46,570 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:30:46,577 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:30:46,578 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:31:03,916 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:31:03,917 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:31:03,919 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:31:03,920 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:31:22,460 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:31:22,460 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:31:22,462 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:31:22,462 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:31:31,463 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:31:31,463 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:31:31,466 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:31:31,466 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:31:58,197 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:31:58,197 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:31:58,199 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:31:58,199 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:32:12,344 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:32:12,344 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:32:12,346 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:32:12,346 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:32:41,487 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:32:41,487 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:32:41,490 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:32:41,490 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:32:53,926 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:32:53,927 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:32:53,929 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:32:53,929 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:32:55,953 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:32:55,954 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:32:55,956 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:32:55,956 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:33:23,467 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:33:23,468 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:33:23,469 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:33:23,470 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:33:55,452 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:33:55,452 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:33:55,454 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:33:55,454 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:34:02,900 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:34:02,901 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:34:02,902 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:34:02,903 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:34:12,443 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:34:12,443 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:34:12,445 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:34:12,445 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:34:47,776 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:34:47,776 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:34:47,778 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:34:47,778 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:35:31,632 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:35:31,632 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:35:31,634 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:35:31,634 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-21 18:36:06,877 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:36:06,877 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\main\resources
+2024-04-21 18:36:06,879 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-21 18:36:06,879 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Servlet_Lessons\src\test\resources
+2024-04-23 09:28:32,773 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-23 09:32:57,665 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:32:57,672 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:32:57,679 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:32:57,680 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:33:33,817 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:33:33,823 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:33:33,827 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:33:33,828 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:33:57,940 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:33:57,942 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:33:57,947 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:33:57,949 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:34:13,525 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-23 09:34:15,857 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Servlet_Lessons:0.0.1-SNAPSHOT @ C:\ServletMock\Servlet_Lessons\pom.xml.
+2024-04-23 09:34:16,762 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Servlet_Lessons/src/main/java
+2024-04-23 09:34:16,763 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Servlet_Lessons/src/main/resources
+2024-04-23 09:34:16,799 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Servlet_Lessons/src/test/java
+2024-04-23 09:34:16,800 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Servlet_Lessons/src/test/resources
+2024-04-23 09:34:17,368 [Worker-27: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Servlet_Lessons
+2024-04-23 09:34:17,405 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 0.00 sec 
+2024-04-23 09:34:17,598 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:34:17,600 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:34:17,607 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:34:17,607 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:34:17,608 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Servlet_Lessons
+2024-04-23 09:34:17,609 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Servlet_Lessons
+2024-04-23 09:34:47,754 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:34:47,764 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:34:47,770 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:34:47,772 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:36:14,558 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:36:14,559 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:36:14,562 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:36:14,563 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:42:10,108 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:42:10,111 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:42:10,116 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:42:10,118 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:42:22,865 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Servlet_Lessons:0.0.1-SNAPSHOT @ C:\ServletMock\Servlet_Lessons\pom.xml.
+2024-04-23 09:42:23,830 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:42:23,844 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:42:23,855 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:42:23,857 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:42:23,858 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Servlet_Lessons
+2024-04-23 09:42:23,858 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Servlet_Lessons
+2024-04-23 09:43:33,342 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:43:33,348 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:43:33,356 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:43:33,358 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:44:27,256 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Servlet_Lessons:0.0.1-SNAPSHOT @ C:\ServletMock\Servlet_Lessons\pom.xml.
+2024-04-23 09:44:28,501 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:44:28,505 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:44:28,512 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:44:28,514 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:44:28,515 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Servlet_Lessons
+2024-04-23 09:44:28,515 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Servlet_Lessons
+2024-04-23 09:44:36,160 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:44:36,161 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:44:36,165 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:44:36,166 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:44:51,778 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:44:51,780 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:44:51,783 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:44:51,785 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:45:04,885 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:45:04,887 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:45:04,893 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:45:04,894 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:45:36,238 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:45:36,240 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:45:36,243 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:45:36,244 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:45:47,007 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:45:47,008 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:45:47,012 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:45:47,012 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:46:09,374 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:46:09,375 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:46:09,381 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:46:09,382 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:46:45,459 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:46:45,462 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:46:45,469 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:46:45,469 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:47:02,918 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:47:02,920 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:47:02,927 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:47:02,930 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:47:20,377 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:47:20,378 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:47:20,381 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:47:20,383 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:47:33,182 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:47:33,184 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:47:33,191 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:47:33,193 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:48:02,550 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:48:02,551 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:48:02,554 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:48:02,555 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:48:16,809 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:48:16,810 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:48:16,815 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:48:16,816 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:48:43,914 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:48:43,916 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:48:43,921 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:48:43,922 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:49:42,107 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:49:42,109 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:49:42,114 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:49:42,115 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:53:07,790 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:53:07,791 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:53:07,794 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:53:07,795 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:53:13,498 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:53:13,499 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:53:13,502 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:53:13,503 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:54:21,643 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:54:21,645 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:54:21,650 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:54:21,651 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:54:31,174 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:54:31,174 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:54:31,177 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:54:31,178 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:56:04,993 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:56:04,994 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:56:04,997 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:56:04,998 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:57:18,953 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:57:18,956 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:57:18,961 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:57:18,962 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:57:32,566 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:57:32,568 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:57:32,572 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:57:32,573 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:58:14,409 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:58:14,412 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:58:14,415 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:58:14,416 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:59:31,337 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:59:31,338 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 09:59:31,341 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 09:59:31,342 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:00:07,379 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:00:07,381 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:00:07,384 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:00:07,385 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:00:11,721 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:00:11,722 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:00:11,726 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:00:11,727 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:02:01,520 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:02:01,523 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:02:01,527 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:02:01,529 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:03:20,634 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-23 10:03:21,217 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Servlet_Lessons:0.0.1-SNAPSHOT @ C:\ServletMock\Servlet_Lessons\pom.xml.
+2024-04-23 10:03:22,020 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Servlet_Lessons/src/main/java
+2024-04-23 10:03:22,021 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Servlet_Lessons/src/main/resources
+2024-04-23 10:03:22,021 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Servlet_Lessons/src/test/java
+2024-04-23 10:03:22,021 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Servlet_Lessons/src/test/resources
+2024-04-23 10:03:22,684 [Worker-32: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Servlet_Lessons
+2024-04-23 10:03:22,701 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-04-23 10:03:22,867 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:03:22,868 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:03:22,872 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:03:22,873 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:03:22,873 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Servlet_Lessons
+2024-04-23 10:03:22,873 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Servlet_Lessons
+2024-04-23 10:04:37,976 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:04:37,988 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:04:37,992 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:04:37,993 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:06:42,837 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:06:42,839 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:06:42,841 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:06:42,843 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:07:52,036 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Servlet_Lessons:0.0.1-SNAPSHOT @ C:\ServletMock\Servlet_Lessons\pom.xml.
+2024-04-23 10:07:52,583 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.4/jakarta.servlet-api-4.0.4.pom
+2024-04-23 10:07:52,671 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.4/jakarta.servlet-api-4.0.4.pom
+2024-04-23 10:07:52,869 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.4/jakarta.servlet-api-4.0.4.jar
+2024-04-23 10:07:53,299 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.4/jakarta.servlet-api-4.0.4.jar
+2024-04-23 10:07:53,997 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:07:54,001 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:07:54,004 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:07:54,005 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:07:54,006 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Servlet_Lessons
+2024-04-23 10:07:54,006 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Servlet_Lessons
+2024-04-23 10:07:54,905 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.4/jakarta.servlet-api-4.0.4-sources.jar
+2024-04-23 10:07:55,004 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.4/jakarta.servlet-api-4.0.4-sources.jar
+2024-04-23 10:07:55,010 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.servlet:jakarta.servlet-api:4.0.4
+2024-04-23 10:08:06,584 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-23 10:08:06,969 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Servlet_Lessons:0.0.1-SNAPSHOT @ C:\ServletMock\Servlet_Lessons\pom.xml.
+2024-04-23 10:08:07,476 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Servlet_Lessons/src/main/java
+2024-04-23 10:08:07,476 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Servlet_Lessons/src/main/resources
+2024-04-23 10:08:07,477 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Servlet_Lessons/src/test/java
+2024-04-23 10:08:07,477 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Servlet_Lessons/src/test/resources
+2024-04-23 10:08:07,945 [Worker-26: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Servlet_Lessons
+2024-04-23 10:08:07,959 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-04-23 10:08:08,154 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:08:08,155 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:08:08,161 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:08:08,161 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:08:08,161 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Servlet_Lessons
+2024-04-23 10:08:08,161 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Servlet_Lessons
+2024-04-23 10:11:06,471 [Worker-47: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Servlet_Lessons:0.0.1-SNAPSHOT @ C:\ServletMock\Servlet_Lessons\pom.xml.
+2024-04-23 10:11:07,272 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:11:07,275 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:11:07,280 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:11:07,281 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:11:07,282 [Worker-47: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Servlet_Lessons
+2024-04-23 10:11:07,282 [Worker-47: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Servlet_Lessons
+2024-04-23 10:11:25,990 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-23 10:11:26,426 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Servlet_Lessons:0.0.1-SNAPSHOT @ C:\ServletMock\Servlet_Lessons\pom.xml.
+2024-04-23 10:11:26,941 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Servlet_Lessons/src/main/java
+2024-04-23 10:11:26,941 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Servlet_Lessons/src/main/resources
+2024-04-23 10:11:26,941 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Servlet_Lessons/src/test/java
+2024-04-23 10:11:26,942 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Servlet_Lessons/src/test/resources
+2024-04-23 10:11:27,568 [Worker-48: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Servlet_Lessons
+2024-04-23 10:11:27,606 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-04-23 10:11:27,754 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:11:27,755 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:11:27,759 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:11:27,759 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:11:27,760 [Worker-47: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Servlet_Lessons
+2024-04-23 10:11:27,760 [Worker-47: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Servlet_Lessons
+2024-04-23 10:12:08,022 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:12:08,030 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:12:08,033 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:12:08,034 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:13:11,721 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:13:11,722 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:13:11,725 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:13:11,726 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:14:42,339 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:14:42,340 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:14:42,343 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:14:42,344 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:16:33,148 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:16:33,150 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:16:33,153 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:16:33,153 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:31:23,359 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [623])
+2024-04-23 10:31:23,361 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2024-04-23 10:31:23,362 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2024-04-23 10:31:23,362 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2024-04-23 10:31:23,363 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2024-04-23 10:31:23,363 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2024-04-23 10:31:23,364 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2024-04-23 10:31:23,366 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2024-04-23 10:31:23,366 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2024-04-23 10:31:23,366 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2024-04-23 10:31:23,367 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2024-04-23 10:31:23,367 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2024-04-23 10:31:23,368 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2024-04-23 10:31:23,368 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2024-04-23 10:31:23,368 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2024-04-23 10:31:23,370 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2024-04-23 10:31:23,370 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2024-04-23 10:31:23,370 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2024-04-23 10:31:23,370 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2024-04-23 10:31:23,371 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2024-04-23 10:31:23,371 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2024-04-23 10:31:23,371 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2024-04-23 10:31:23,371 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2024-04-23 10:31:23,371 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2024-04-23 10:31:23,371 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2024-04-23 10:31:23,371 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2024-04-23 10:31:23,372 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2024-04-23 10:31:23,372 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2024-04-23 10:31:23,373 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2024-04-23 10:31:23,373 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-04-23 10:31:23,373 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-04-23 10:31:23,374 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2024-04-23 10:31:23,374 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2024-04-23 10:31:23,374 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2024-04-23 10:31:23,374 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2024-04-23 10:31:23,375 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2024-04-23 10:31:23,375 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2024-04-23 10:31:23,375 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2024-04-23 10:31:23,376 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2024-04-23 10:31:23,376 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2024-04-23 10:31:23,379 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [12])
+2024-04-23 10:31:23,379 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\com.google.guava_32.1.2.jre.jar
+2024-04-23 10:31:23,379 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.11 [984])
+2024-04-23 10:31:23,380 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\slf4j.api_2.0.11.jar
+2024-04-23 10:31:23,381 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [38])
+2024-04-23 10:31:23,382 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-04-23 10:31:23,383 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [36])
+2024-04-23 10:31:23,383 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-04-23 10:31:23,383 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [73])
+2024-04-23 10:31:23,384 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2024-04-23 10:31:23,384 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [14])
+2024-04-23 10:31:23,384 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-04-23 10:31:23,390 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\hp\AppData\Local\Temp\m2e-archetypeGenerator15378424287776671202":
+2024-04-23 10:31:23,391 [Worker-54: Launching mavenrun-2ecd501a-eb5b-4e15-bb27-77b3fbbf33d2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=com.jsp -DartifactId=jdbc-jsp -Dversion=0.0.1-SNAPSHOT -Dpackage=com.jsp.jdbc_jsp -DoutputDirectory=C:\ServletMock -Dstyle.color=always -U archetype:generate
+2024-04-23 10:31:47,061 [Worker-44: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ServletMock\jdbc-jsp\pom.xml
+2024-04-23 10:31:47,202 [Worker-44: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:jdbc-jsp:0.0.1-SNAPSHOT @ C:\ServletMock\jdbc-jsp\pom.xml.
+2024-04-23 10:31:47,311 [Worker-44: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc-jsp/src/main/java
+2024-04-23 10:31:47,311 [Worker-44: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jdbc-jsp/src/main/resources
+2024-04-23 10:31:47,311 [Worker-44: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc-jsp/src/test/java
+2024-04-23 10:31:47,311 [Worker-44: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jdbc-jsp/src/test/resources
+2024-04-23 10:31:48,236 [Worker-44: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-04-23 10:31:48,657 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:31:48,657 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\jdbc-jsp\src\main\resources
+2024-04-23 10:31:48,663 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:31:48,664 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\jdbc-jsp\src\test\resources
+2024-04-23 10:31:50,030 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:31:50,030 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\jdbc-jsp\src\main\resources
+2024-04-23 10:31:50,034 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:31:50,035 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\jdbc-jsp\src\test\resources
+2024-04-23 10:45:20,505 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:45:20,507 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 10:45:20,513 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 10:45:20,515 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:20:57,184 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-23 21:28:20,116 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:jdbc-jsp:0.0.1-SNAPSHOT @ C:\ServletMock\jdbc-jsp\pom.xml.
+2024-04-23 21:28:22,528 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:28:22,528 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\jdbc-jsp\src\main\resources
+2024-04-23 21:28:22,534 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:28:22,534 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\jdbc-jsp\src\test\resources
+2024-04-23 21:28:22,537 [Worker-24: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jdbc-jsp
+2024-04-23 21:28:22,538 [Worker-24: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jdbc-jsp
+2024-04-23 21:28:49,221 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:28:49,235 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:28:49,239 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:28:49,239 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:00,701 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-23 21:29:01,315 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:jdbc-jsp:0.0.1-SNAPSHOT @ C:\ServletMock\jdbc-jsp\pom.xml.
+2024-04-23 21:29:02,388 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc-jsp/src/main/java
+2024-04-23 21:29:02,389 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jdbc-jsp/src/main/resources
+2024-04-23 21:29:02,440 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc-jsp/src/test/java
+2024-04-23 21:29:02,441 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jdbc-jsp/src/test/resources
+2024-04-23 21:29:03,288 [Worker-27: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jdbc-jsp
+2024-04-23 21:29:03,327 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-04-23 21:29:03,569 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:03,572 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:03,578 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:03,578 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:03,579 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jdbc-jsp
+2024-04-23 21:29:03,579 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jdbc-jsp
+2024-04-23 21:29:11,326 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:11,331 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:11,335 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:11,336 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:17,130 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:17,131 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:17,134 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:17,135 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:22,150 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:22,151 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:22,154 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:22,155 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:46,859 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:46,860 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:46,864 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:46,865 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:53,138 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:53,140 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:29:53,147 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:29:53,148 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:32:32,638 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:jdbc-jsp:0.0.1-SNAPSHOT @ C:\ServletMock\jdbc-jsp\pom.xml.
+2024-04-23 21:32:33,856 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:32:33,864 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:32:33,871 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:32:33,873 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:32:33,874 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jdbc-jsp
+2024-04-23 21:32:33,874 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jdbc-jsp
+2024-04-23 21:33:49,126 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:jdbc-jsp:0.0.1-SNAPSHOT @ C:\ServletMock\jdbc-jsp\pom.xml.
+2024-04-23 21:33:49,983 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:33:49,989 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:33:49,994 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:33:49,996 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:33:49,996 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jdbc-jsp
+2024-04-23 21:33:49,996 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jdbc-jsp
+2024-04-23 21:34:27,081 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:jdbc-jsp:0.0.1-SNAPSHOT @ C:\ServletMock\jdbc-jsp\pom.xml.
+2024-04-23 21:34:27,888 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:34:27,895 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:34:27,900 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:34:27,902 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:34:27,902 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jdbc-jsp
+2024-04-23 21:34:27,902 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jdbc-jsp
+2024-04-23 21:34:36,538 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-23 21:34:37,036 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:jdbc-jsp:0.0.1-SNAPSHOT @ C:\ServletMock\jdbc-jsp\pom.xml.
+2024-04-23 21:34:37,723 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc-jsp/src/main/java
+2024-04-23 21:34:37,724 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jdbc-jsp/src/main/resources
+2024-04-23 21:34:37,724 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc-jsp/src/test/java
+2024-04-23 21:34:37,725 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jdbc-jsp/src/test/resources
+2024-04-23 21:34:38,239 [Worker-24: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jdbc-jsp
+2024-04-23 21:34:38,276 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-04-23 21:34:38,568 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:34:38,569 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:34:38,576 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:34:38,577 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:34:38,579 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jdbc-jsp
+2024-04-23 21:34:38,579 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jdbc-jsp
+2024-04-23 21:35:03,768 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:35:03,776 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:35:03,781 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:35:03,783 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:36:51,077 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:36:51,078 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:36:51,080 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:36:51,081 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:37:42,605 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:37:42,606 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:37:42,610 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:37:42,611 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:42:47,788 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:42:47,790 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:42:47,795 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:42:47,797 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:43:18,749 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:43:18,751 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:43:18,754 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:43:18,756 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:44:20,264 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:44:20,265 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:44:20,270 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:44:20,272 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:44:32,875 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:44:32,876 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:44:32,881 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:44:32,882 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:44:45,536 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:44:45,537 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:44:45,540 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:44:45,541 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:45:41,537 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:45:41,538 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 21:45:41,543 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 21:45:41,544 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:05:13,336 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:05:13,337 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:05:13,340 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:05:13,341 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:05:17,668 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:05:17,669 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:05:17,671 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:05:17,672 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:05:22,075 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:05:22,075 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:05:22,096 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:05:22,098 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:05:52,522 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:05:52,523 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:05:52,525 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:05:52,526 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:05:58,523 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:05:58,524 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:05:58,526 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:05:58,527 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:07:42,462 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:07:42,463 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:07:42,467 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:07:42,468 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:09:15,109 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:09:15,110 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:09:15,114 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:09:15,115 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:10:24,132 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:10:24,133 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:10:24,137 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:10:24,137 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:10:26,146 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:10:26,147 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:10:26,154 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:10:26,155 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:10:42,876 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:10:42,878 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:10:42,883 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:10:42,884 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:10:45,090 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:10:45,092 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:10:45,096 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:10:45,098 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:10:58,279 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:10:58,280 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:10:58,283 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:10:58,285 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:11:17,751 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:11:17,753 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:11:17,756 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:11:17,758 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:11:22,802 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:11:22,803 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 22:11:22,806 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 22:11:22,807 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:07:34,445 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-23 23:07:54,370 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:07:54,387 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:07:54,404 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:07:54,406 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:08:02,211 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:08:02,212 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:08:02,220 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:08:02,221 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:48:05,636 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:48:05,648 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:48:05,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:48:05,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:48:26,778 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:48:26,780 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:48:26,794 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:48:26,796 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:49:12,719 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:49:12,721 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:49:12,725 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:49:12,726 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:50:13,595 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:50:13,596 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:50:13,599 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:50:13,601 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:50:24,795 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:50:24,796 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:50:24,803 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:50:24,804 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:53:24,319 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:53:24,320 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:53:24,325 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:53:24,325 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:57:21,370 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:57:21,371 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-23 23:57:21,374 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-23 23:57:21,375 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:01:02,868 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:01:02,869 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:01:02,872 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:01:02,873 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:01:24,336 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:01:24,337 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:01:24,340 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:01:24,341 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:01:40,652 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:01:40,653 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:01:40,656 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:01:40,657 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:02:35,278 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:02:35,280 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:02:35,284 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:02:35,286 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:02:53,548 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:02:53,549 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:02:53,553 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:02:53,554 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:02:55,691 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:02:55,692 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:02:55,694 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:02:55,695 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:05:40,015 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:05:40,016 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 00:05:40,023 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 00:05:40,024 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 17:54:08,566 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-24 18:00:50,393 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [623])
+2024-04-24 18:00:50,400 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2024-04-24 18:00:50,401 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2024-04-24 18:00:50,401 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2024-04-24 18:00:50,401 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2024-04-24 18:00:50,401 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2024-04-24 18:00:50,402 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2024-04-24 18:00:50,402 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2024-04-24 18:00:50,402 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2024-04-24 18:00:50,402 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2024-04-24 18:00:50,402 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2024-04-24 18:00:50,402 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2024-04-24 18:00:50,402 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2024-04-24 18:00:50,402 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2024-04-24 18:00:50,403 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2024-04-24 18:00:50,403 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2024-04-24 18:00:50,403 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2024-04-24 18:00:50,404 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2024-04-24 18:00:50,404 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2024-04-24 18:00:50,404 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2024-04-24 18:00:50,404 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2024-04-24 18:00:50,404 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2024-04-24 18:00:50,404 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2024-04-24 18:00:50,405 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2024-04-24 18:00:50,406 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2024-04-24 18:00:50,407 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2024-04-24 18:00:50,408 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2024-04-24 18:00:50,409 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2024-04-24 18:00:50,409 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2024-04-24 18:00:50,409 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-04-24 18:00:50,409 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-04-24 18:00:50,409 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2024-04-24 18:00:50,410 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2024-04-24 18:00:50,410 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2024-04-24 18:00:50,410 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2024-04-24 18:00:50,410 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2024-04-24 18:00:50,411 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2024-04-24 18:00:50,411 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2024-04-24 18:00:50,411 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2024-04-24 18:00:50,411 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2024-04-24 18:00:50,413 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [12])
+2024-04-24 18:00:50,414 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\com.google.guava_32.1.2.jre.jar
+2024-04-24 18:00:50,414 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.11 [984])
+2024-04-24 18:00:50,414 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\slf4j.api_2.0.11.jar
+2024-04-24 18:00:50,414 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [38])
+2024-04-24 18:00:50,415 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-04-24 18:00:50,415 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [36])
+2024-04-24 18:00:50,415 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-04-24 18:00:50,415 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [73])
+2024-04-24 18:00:50,415 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2024-04-24 18:00:50,415 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [14])
+2024-04-24 18:00:50,415 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\hp\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-04-24 18:00:50,422 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\hp\AppData\Local\Temp\m2e-archetypeGenerator7345006138523033730":
+2024-04-24 18:00:50,432 [Worker-20: Launching mavenrun-f2f6b4d3-e44b-4001-a1a1-a7deee59b192] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=com.jsp -DartifactId=Course_Management_System -Dversion=0.0.1-SNAPSHOT -Dpackage=com.jsp.Course_Management_System -DoutputDirectory=C:\ServletMock -Dstyle.color=always -U archetype:generate
+2024-04-24 18:02:40,755 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ServletMock\Course_Management_System\pom.xml
+2024-04-24 18:02:43,678 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Course_Management_System:0.0.1-SNAPSHOT @ C:\ServletMock\Course_Management_System\pom.xml.
+2024-04-24 18:02:46,164 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Course_Management_System/src/main/java
+2024-04-24 18:02:46,164 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Course_Management_System/src/main/resources
+2024-04-24 18:02:46,165 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Course_Management_System/src/test/java
+2024-04-24 18:02:46,165 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Course_Management_System/src/test/resources
+2024-04-24 18:02:46,793 [Worker-17: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2024-04-24 18:02:47,080 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:02:47,080 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Course_Management_System\src\main\resources
+2024-04-24 18:02:47,087 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:02:47,087 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Course_Management_System\src\test\resources
+2024-04-24 18:02:48,121 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:02:48,121 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Course_Management_System\src\main\resources
+2024-04-24 18:02:48,128 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:02:48,129 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ServletMock\Course_Management_System\src\test\resources
+2024-04-24 18:03:06,225 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:03:06,231 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:03:06,233 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:03:06,234 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:03:53,275 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Course_Management_System:0.0.1-SNAPSHOT @ C:\ServletMock\Course_Management_System\pom.xml.
+2024-04-24 18:03:53,365 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.pom
+2024-04-24 18:03:53,396 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.pom
+2024-04-24 18:03:53,408 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.pom
+2024-04-24 18:03:53,446 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.pom
+2024-04-24 18:03:53,455 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.21.9/protobuf-parent-3.21.9.pom
+2024-04-24 18:03:53,495 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.21.9/protobuf-parent-3.21.9.pom
+2024-04-24 18:03:53,507 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.21.9/protobuf-bom-3.21.9.pom
+2024-04-24 18:03:53,545 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.21.9/protobuf-bom-3.21.9.pom
+2024-04-24 18:03:53,557 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.pom
+2024-04-24 18:03:53,593 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.pom
+2024-04-24 18:03:53,608 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.pom
+2024-04-24 18:03:53,640 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.pom
+2024-04-24 18:03:53,653 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.pom
+2024-04-24 18:03:53,683 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.pom
+2024-04-24 18:03:53,701 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar
+2024-04-24 18:03:53,713 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar
+2024-04-24 18:03:53,720 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+2024-04-24 18:03:53,720 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar
+2024-04-24 18:03:53,724 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar
+2024-04-24 18:03:53,794 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar
+2024-04-24 18:03:54,052 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+2024-04-24 18:03:55,295 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar
+2024-04-24 18:03:55,765 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar
+2024-04-24 18:03:56,116 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar
+2024-04-24 18:03:57,045 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:03:57,049 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:03:57,052 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:03:57,052 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:03:57,053 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Course_Management_System
+2024-04-24 18:03:57,058 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Course_Management_System
+2024-04-24 18:03:57,755 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33-sources.jar
+2024-04-24 18:03:58,178 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33-sources.jar
+2024-04-24 18:03:58,184 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:8.0.33
+2024-04-24 18:03:58,217 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9-sources.jar
+2024-04-24 18:03:58,423 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9-sources.jar
+2024-04-24 18:03:58,430 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.21.9
+2024-04-24 18:03:58,503 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0-sources.jar
+2024-04-24 18:03:58,559 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0-sources.jar
+2024-04-24 18:03:58,568 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:3.0.0
+2024-04-24 18:03:58,599 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0-sources.jar
+2024-04-24 18:03:58,656 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0-sources.jar
+2024-04-24 18:03:58,665 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.el:jakarta.el-api:5.0.0
+2024-04-24 18:03:58,699 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1-sources.jar
+2024-04-24 18:03:58,792 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1-sources.jar
+2024-04-24 18:03:58,801 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.web:jakarta.servlet.jsp.jstl:3.0.1
+2024-04-24 18:04:07,773 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:04:07,774 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:04:07,779 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:04:07,780 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:04:16,819 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-24 18:04:17,268 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:Course_Management_System:0.0.1-SNAPSHOT @ C:\ServletMock\Course_Management_System\pom.xml.
+2024-04-24 18:04:17,965 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Course_Management_System/src/main/java
+2024-04-24 18:04:17,966 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Course_Management_System/src/main/resources
+2024-04-24 18:04:17,993 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Course_Management_System/src/test/java
+2024-04-24 18:04:17,993 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Course_Management_System/src/test/resources
+2024-04-24 18:04:18,253 [Worker-14: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Course_Management_System
+2024-04-24 18:04:18,279 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-04-24 18:04:18,443 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:04:18,446 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:04:18,451 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:04:18,451 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:04:18,452 [Worker-20: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Course_Management_System
+2024-04-24 18:04:18,452 [Worker-20: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Course_Management_System
+2024-04-24 18:05:38,885 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:05:38,891 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:05:38,894 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:05:38,895 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:07:01,501 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:07:01,502 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:07:01,507 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:07:01,507 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:07:47,062 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:07:47,063 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:07:47,065 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:07:47,066 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:08:41,608 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:08:41,609 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:08:41,612 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:08:41,612 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:08:45,606 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:08:45,606 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:08:45,609 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:08:45,609 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:09:53,396 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:09:53,396 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:09:53,399 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:09:53,400 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:13:57,684 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:13:57,685 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:13:57,692 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:13:57,693 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:14:36,200 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:14:36,200 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:14:36,203 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:14:36,204 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:15:08,994 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:15:08,994 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:15:08,999 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:15:09,000 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:15:30,672 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:15:30,672 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:15:30,677 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:15:30,678 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:15:41,633 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:15:41,634 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:15:41,636 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:15:41,637 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:18:02,742 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:18:02,743 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:18:02,746 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:18:02,747 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:21:40,262 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:21:40,263 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:21:40,265 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:21:40,266 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:24:10,677 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:24:10,678 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:24:10,680 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:24:10,681 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:24:29,171 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:24:29,172 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:24:29,175 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:24:29,176 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:24:53,319 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:24:53,320 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:24:53,322 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:24:53,323 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:26:21,349 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:26:21,350 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:26:21,353 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:26:21,354 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:27:06,560 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:27:06,562 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:27:06,565 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:27:06,565 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:29:48,187 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:29:48,188 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:29:48,190 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:29:48,190 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:30:00,828 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:30:00,829 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:30:00,832 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:30:00,832 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:30:15,708 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:30:15,709 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:30:15,711 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:30:15,712 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:30:30,946 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:30:30,948 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:30:30,950 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:30:30,951 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:30:40,469 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:30:40,470 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:30:40,473 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:30:40,473 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:30:43,000 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:30:43,002 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:30:43,004 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:30:43,004 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:31:01,015 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:31:01,017 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:31:01,019 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:31:01,020 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:31:42,629 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:31:42,630 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:31:42,632 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:31:42,632 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:33:48,161 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:33:48,162 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:33:48,165 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:33:48,166 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:34:55,458 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:34:55,459 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:34:55,462 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:34:55,462 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:46:37,494 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:46:37,496 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:46:37,500 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:46:37,502 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:46:58,890 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:46:58,891 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:46:58,895 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:46:58,895 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:47:19,594 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:47:19,596 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:47:19,600 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:47:19,601 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:49:23,660 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:49:23,662 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:49:23,668 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:49:23,670 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:49:43,830 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:49:43,832 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:49:43,835 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:49:43,837 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:50:24,096 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:50:24,097 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:50:24,101 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:50:24,104 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:51:34,791 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:51:34,793 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:51:34,797 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:51:34,799 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:51:59,341 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:51:59,344 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:51:59,349 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:51:59,351 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:52:23,612 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:52:23,613 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:52:23,616 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:52:23,617 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:53:02,568 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:53:02,569 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:53:02,571 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:53:02,571 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:53:23,003 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:53:23,004 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:53:23,007 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:53:23,008 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:54:03,510 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:54:03,516 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:54:03,520 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:54:03,521 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:54:17,361 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:54:17,362 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:54:17,371 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:54:17,373 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:57:07,468 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:57:07,470 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:57:07,474 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:57:07,475 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:57:27,750 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:57:27,752 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:57:27,756 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:57:27,757 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:58:56,725 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:58:56,726 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 18:58:56,730 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 18:58:56,732 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 19:00:10,334 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 19:00:10,336 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 19:00:10,339 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 19:00:10,339 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 19:00:52,533 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 19:00:52,533 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 19:00:52,535 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 19:00:52,536 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 19:01:08,783 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 19:01:08,785 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 19:01:08,787 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 19:01:08,788 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 19:01:22,909 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 19:01:22,911 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 19:01:22,914 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-24 19:01:22,915 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-24 19:40:34,379 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

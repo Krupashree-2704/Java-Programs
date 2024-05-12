@@ -1,0 +1,12 @@
+127.0.0.1 - - [19/Apr/2024:14:40:31 +0530] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [19/Apr/2024:19:45:13 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:19:45:15 +0530] "GET /Servlet_Lessons/tagInfo.jsp HTTP/1.1" 200 491
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:19:45:16 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [19/Apr/2024:19:46:25 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:19:46:27 +0530] "GET /Servlet_Lessons/tagInfo.jsp HTTP/1.1" 200 525
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:19:46:40 +0530] "GET /Servlet_Lessons/tagInfo.jsp HTTP/1.1" 200 524
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:19:48:52 +0530] "GET /Servlet_Lessons/tagInfo.jsp HTTP/1.1" 500 2454
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:19:49:41 +0530] "GET /Servlet_Lessons/tagInfo.jsp HTTP/1.1" 200 531
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:19:50:16 +0530] "GET /Servlet_Lessons/tagInfo.jsp HTTP/1.1" 500 2122
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:19:50:30 +0530] "GET /Servlet_Lessons/tagInfo.jsp HTTP/1.1" 200 551
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:19:50:49 +0530] "GET /Servlet_Lessons/tagInfo.jsp HTTP/1.1" 200 554

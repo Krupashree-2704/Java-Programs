@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+C:\ServletMock\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3924177673.index
+299798343.index
+4215899063.index
+1634679086.index
+975145523.index
+4079014175.index
+518620582.index
+1854524674.index
+2370849145.index
+1211669978.index
