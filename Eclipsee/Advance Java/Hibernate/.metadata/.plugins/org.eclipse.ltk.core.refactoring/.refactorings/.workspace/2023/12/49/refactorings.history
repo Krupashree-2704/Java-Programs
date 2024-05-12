@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;12-bank-account-otmmto-tableeliminate&apos; to &apos;12-student-subject-mtm-bi&apos;" description="Rename resource &apos;12-bank-account-otmmto-tableeliminate&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/12-bank-account-otmmto-tableeliminate" name="12-student-subject-mtm-bi" stamp="1702025102696" updateReferences="true"/>
+</session>

@@ -1,0 +1,17 @@
+package com.jsp.sms.controller;
+
+import java.util.ArrayList;
+
+import com.jsp.sms.model.Student;
+
+public class StudentUtility {
+	public static void addStudent(Student student)
+	{
+		ArrayList<Student> studentList = new ArrayList<Student>();
+		student.setId(student.getId());
+		student.setName(student.getName());
+		student.setAge(student.getAge());
+		
+		
+	}
+}

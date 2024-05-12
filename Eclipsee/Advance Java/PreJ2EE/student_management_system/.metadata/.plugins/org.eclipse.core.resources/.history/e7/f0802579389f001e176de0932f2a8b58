@@ -1,0 +1,49 @@
+package com.jsp.sms.view;
+
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import com.jsp.sms.controller.StudentUtility;
+import com.jsp.sms.model.Student;
+
+
+
+
+
+public class StudentView {
+	static Scanner myInput=new Scanner(System.in); 
+	static StudentUtility studentUtility=new StudentUtility();
+	static ArrayList studentList=new ArrayList();
+	public static void main(String[] args) {
+		switch (2) {
+		case 1:
+			
+			System.out.println("Enter Student ID:");
+			int student_id=myInput.nextInt();
+			myInput.nextLine();
+			System.out.println("Enter Student Name:");
+			String student_name=myInput.nextLine();
+			System.out.println("Enter Student Age:");
+			int student_age=myInput.nextInt();
+			myInput.nextLine();
+			Student student = new Student(student_id, student_name, student_age);
+			
+			
+			break;
+		case 2:
+			
+			
+			break;
+		case 3:
+			break;
+		default:
+			break;
+		}
+		
+		
+		
+
+	}
+
+}

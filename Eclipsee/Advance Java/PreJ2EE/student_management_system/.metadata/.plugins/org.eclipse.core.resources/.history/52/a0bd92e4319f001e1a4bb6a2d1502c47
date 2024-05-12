@@ -1,0 +1,10 @@
+package com.jsp.sms.controller;
+
+import com.jsp.sms.model.Student;
+
+public class StudentUtility {
+	public static void addStudent(Student student)
+	{
+		
+	}
+}

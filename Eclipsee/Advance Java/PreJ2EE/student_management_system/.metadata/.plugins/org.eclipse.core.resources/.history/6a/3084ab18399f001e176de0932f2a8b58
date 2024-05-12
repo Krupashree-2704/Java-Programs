@@ -1,0 +1,46 @@
+package com.jsp.sms.view;
+
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import com.jsp.sms.controller.StudentUtility;
+import com.jsp.sms.model.Student;
+
+
+
+
+
+public class StudentView {
+	static Scanner myInput=new Scanner(System.in); 
+	static StudentUtility studentUtility=new StudentUtility();
+	static ArrayList <Student>studentList=new ArrayList<Student>();
+	public static void main(String[] args) {
+		switch (2) {
+		case 1:
+			
+			
+			
+			Student addStudent = studentUtility.addStudent();
+			studentList.add(addStudent);
+			
+			
+			break;
+		case 2:
+			for (Object  obj : studentList) {
+				System.out.println(obj);
+			}
+			
+			break;
+		case 3:
+			break;
+		default:
+			break;
+		}
+		
+		
+		
+
+	}
+
+}

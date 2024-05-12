@@ -1,0 +1,30 @@
+package com.jsp.ce.bi.eliminate.model;
+
+import java.time.LocalDateTime;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.OneToOne;
+import javax.persistence.Table;
+
+import org.hibernate.annotations.CreationTimestamp;
+
+@Entity
+@Table(name = "enginedetails")
+public class Engine {
+	@Id
+	@Column(name = "engine_id")
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
+	@Column(name = "engine_cc",nullable = false)
+	private double cc;
+	@Column(updatable = false)
+	private byte no_of_engine;
+	@CreationTimestamp
+	private LocalDateTime engine_insert;
+	@OneToOne(mappedBy = "engine")
+	private Car car;
+}

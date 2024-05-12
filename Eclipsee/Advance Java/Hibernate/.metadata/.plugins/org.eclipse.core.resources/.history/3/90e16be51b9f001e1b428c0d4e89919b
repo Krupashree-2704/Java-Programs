@@ -1,0 +1,5 @@
+package com.jsp.ac.model;
+
+public interface Shape {
+
+}
