@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.jsp.insertcrud.model.Model&apos; to &apos;Professor&apos;&#x0D;&#x0A;- Original project: &apos;02-b-Create-operation&apos;&#x0D;&#x0A;- Original element: &apos;com.jsp.insertcrud.model.Model&apos;&#x0D;&#x0A;- Renamed element: &apos;com.jsp.insertcrud.model.Professor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Model&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jsp.insertcrud.model{Model.java[Model" matchStrategy="1" name="Professor" qualified="false" references="true" similarDeclarations="false" stamp="1700673684535" textual="false" version="1.0"/>
+</session>

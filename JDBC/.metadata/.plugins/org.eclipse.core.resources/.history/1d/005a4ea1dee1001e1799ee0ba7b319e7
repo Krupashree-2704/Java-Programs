@@ -1,0 +1,12 @@
+package callstmt;
+
+import java.sql.DriverManager;
+
+import org.postgresql.Driver;
+
+public class ReturnCountofRecords {
+	Driver driver = new Driver();
+	DriverManager.registerDriver(new Driver());
+	
+	
+}

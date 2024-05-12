@@ -1,0 +1,23 @@
+package com.jsp.ac.controller;
+
+import com.jsp.ac.model.Shape;
+
+ public abstract class AreaRectangle implements Shape{
+	int length_rectangle;
+	int breadth_rectangle;
+	
+		
+	
+//	public AreaRectangle(int length_rectangle, int breadth_rectangle) {
+//		
+//		this.length_rectangle = length_rectangle;
+//		this.breadth_rectangle = breadth_rectangle;
+//	}
+
+//	public static void main(String[] args) {
+//		Area areaRectangle = new Area();
+//		areaRectangle.areaRectangle(0, 0);
+//
+//	}
+
+}

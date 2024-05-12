@@ -1,0 +1,108 @@
+package com.jsp.controller;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.EntityTransaction;
+import javax.persistence.Persistence;
+import javax.persistence.TypedQuery;
+
+import com.jsp.entity.model.Department;
+import com.jsp.entity.model.Employee;
+import com.jsp.entity.model.Project;
+
+public class Controller {
+
+	
+		static EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("pgsql");
+		static EntityManager entityManager = entityManagerFactory.createEntityManager();
+		static EntityTransaction entityTransaction = entityManager.getTransaction();
+		
+		Employee employee1 = new Employee();
+        
+		public boolean addEmployee(Employee employee)
+		{
+			if (employee!=null ) {
+				entityTransaction.begin();
+				
+				Employee attachedEmployee = entityManager.merge(employee);
+					entityManager.persist(attachedEmployee);
+				   entityTransaction.commit();
+
+		
+				return true;
+			}
+			
+			return false;
+		}
+		public boolean addProject(Project project)
+		{
+			if (project!=null) {
+				entityTransaction.begin();
+				Project attachedProject = entityManager.merge(project);
+				entityManager.persist(attachedProject);
+				entityTransaction.commit();
+				return true;
+			}
+			return false;
+		}
+		public boolean addDepartment(Department department)
+		{
+			if (department!=null) {
+				entityTransaction.begin();
+				Department attachedDepartment = entityManager.merge(department);
+				entityManager.persist(attachedDepartment);
+				entityTransaction.commit();
+				return true;
+			}
+			return false;
+		}
+		
+//		public boolean addDeptartment()
+//		{
+//			return true;
+//		}
+		public Employee findEmployee(int employee_id)
+		{
+			return entityManager.find(Employee.class, employee_id);
+		}
+		public List<Employee> findEmployeeDetails()
+		{
+			TypedQuery<Employee> query = entityManager.createQuery("SELECT e FROM Employee e", Employee.class);
+			return query.getResultList();
+		}
+//		public boolean updateEmployeeProject(int employee_id,List<Project>project)
+//		{
+//			Employee findEmployee = entityManager.find(Employee.class, employee_id);
+//			if (findEmployee!=null) {
+//				entityTransaction.begin();
+//				
+//				for (Project project2 : project) {
+//					findEmployee.setProject(project);
+//					entityManager.merge(project2);
+//					entityTransaction.commit();
+//				}
+//				
+//				
+//				return true;
+//			}
+//			return false;
+//		}
+		public static boolean removeEmployee(int employee_id)
+		{
+			Employee removeEmployee = entityManager.find(Employee.class, employee_id);
+			if (removeEmployee!=null) {
+				entityTransaction.begin();
+				entityManager.remove(removeEmployee);
+				entityTransaction.commit();
+				return true;
+			}
+			return false;
+		}
+			
+		
+
+	
+
+}
