@@ -1,0 +1,8 @@
+package com.qsp.emes.servlet;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet(value="/loginprocess")
+public class ProcessLogin {
+
+}

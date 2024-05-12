@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HTTPSession_Login-Logout_webapp/src/main/webapp/loginform.html&apos; to &apos;loginpage.html&apos;" description="Rename resource &apos;loginform.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/loginform.html" name="loginpage.html" stamp="1706857805988" updateReferences="true"/>
+</session>

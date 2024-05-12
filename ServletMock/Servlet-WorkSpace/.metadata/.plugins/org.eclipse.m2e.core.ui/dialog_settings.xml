@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Servlet-WorkSpace\JSPObjects"/>
+			<item value="C:\Servlet-WorkSpace\StudentMagmtSystem\src\main\java\com\qsp\smso\servlet"/>
+			<item value="C:\Servlet-WorkSpace\StudentMagmtSystem\src\main\resources\META-INF\persistence.xml"/>
+			<item value="C:\Servlet-WorkSpace\HTTPSession_Login_Logout2"/>
+			<item value="C:\Servlet-WorkSpace\HttpSession\src\main\java\com\qsp\hs\model\PageC.java"/>
+			<item value="C:\Servlet-WorkSpace\17_HiddenFormField_Project\src\main\java\com\qsp\hff\servlet\Processing.java"/>
+			<item value="C:\Servlet-WorkSpace\HiddenFormField\src\main\webapp\WEB-INF\web.xml"/>
+			<item value="C:\Servlet-WorkSpace\cookie_newproject"/>
+			<item value="C:\Servlet-WorkSpace\Expiring_Cookie\src\main\java\com\jsp\ec\servlet\PageA.java"/>
+			<item value="C:\Servlet-WorkSpace\Cookie\src\main\java\com\jsp\cookie\servlet\PageA.java"/>
+			<item value="C:\Servlet-WorkSpace\Cookie\src\main\webapp\index.jsp"/>
+			<item value="C:\Servlet-WorkSpace\StudentMagmtSystem\src\main\java\com\qsp\smso\servlet\ReadStudent.java"/>
+			<item value="C:\Servlet-WorkSpace\ServletConfigProj2\src\main\java\com\jsp\servletconfig\servlet\PageA.java"/>
+			<item value="C:\Servlet-WorkSpace\ServletConfigProj1\src\main\java\com\jsp\servletconfig\servlet\PageA.java"/>
+			<item value="C:\Servlet-WorkSpace\SessionManagement-Prerequisite\src\main\webapp\index.jsp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.qspiders.EmployeeMgmtSystemo"/>
+			<item value="com.qspiders.JSPObjects"/>
+			<item value="com.qspiders.EmpMgmtSyst"/>
+			<item value="com.qspiders.EmployeeManagementSystem"/>
+			<item value="com.qspiders.Project2"/>
+			<item value="com.qspiders.Project1"/>
+			<item value="com.projecthub.StudentMgmtSystemo"/>
+		</list>
+		<list key="groupId">
+			<item value="com.qspiders"/>
+			<item value="com.projecthub"/>
+		</list>
+		<list key="artifactId">
+			<item value="EmployeeMgmtSystemo"/>
+			<item value="JSPObjects"/>
+			<item value="EmpMgmtSyst"/>
+			<item value="EmployeeManagementSystem"/>
+			<item value="Project2"/>
+			<item value="Project1"/>
+			<item value="StudentMgmtSystemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

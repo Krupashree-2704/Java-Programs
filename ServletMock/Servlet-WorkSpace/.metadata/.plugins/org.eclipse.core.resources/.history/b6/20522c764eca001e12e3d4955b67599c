@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Explicit JSP Objects</title>
+</head>
+<body>
+	<%
+		//getting explicit object from JSP pageContext
+		ServletContext servletContext = pageContext.getServletContext();
+	HttpSession httpSession = pageContext.getSession();
+	HTTPServletRequest hTTPServletRequest = pageContext.getRequest();
+	
+	%>
+</body>
+</html>

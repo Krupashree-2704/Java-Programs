@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Cookie1&apos; to &apos;Expiring_Cookie&apos;" description="Rename resource &apos;Cookie1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Cookie1" name="Expiring_Cookie" stamp="1706003471295" updateReferences="true"/>
+</session>
